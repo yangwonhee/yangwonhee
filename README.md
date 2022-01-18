@@ -2,7 +2,7 @@
 
 
 
-<h4 align="center">🇰🇷</h4>
+<h3 align="center">🇰🇷</h3>
 
 <h3 align="center">🛠 Tech 🛠</h3>
 
@@ -45,4 +45,12 @@
         src = "https://github-readme-stats.vercel.app/api?username=yangwonhee&theme=swift&show_icons=true">
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=footer&text=&fontSize=90)
+
+<p align="center">
+  <img
+      src = "http://mazassumnida.wtf/api/v2/generate_badge?boj={codult}">
+<p>
+
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=&fontSize=90)
