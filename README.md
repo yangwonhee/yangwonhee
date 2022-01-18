@@ -37,6 +37,10 @@
 <p align="center">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyangwonhee&count_bg=%2380B1C2&title_bg=%23626262&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 </p>
+<p align="center">
+  <img
+    src = "http://mazassumnida.wtf/api/mini/generate_badge?boj=codult">
+</p>
 <br>
 
 
@@ -46,10 +50,9 @@
 </p>
 
 
-<p align="center">
-  <img
-    src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=codult">
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangwonhee&layout=compact)](https://github.com/yangwonhee/github-readme-stats)
+
+
 
 
 
