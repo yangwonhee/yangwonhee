@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WONHEEZ&fontAlignY=40&desc=developer&descSize=40&descAlignY=50&animation=fadeIn&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=WONHEEZ&fontAlignY=40&desc=developer&descSize=40&descAlignY=60&animation=fadeIn&fontSize=70)
 
 
 
-<p align="center">🇰🇷</p>
+<h4 align="center">🇰🇷</h4>
 
 <h3 align="center">🛠 Tech 🛠</h3>
 
@@ -44,3 +44,5 @@
     <img
         src = "https://github-readme-stats.vercel.app/api?username=yangwonhee&theme=swift&show_icons=true">
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=footer&text=&fontSize=90)
