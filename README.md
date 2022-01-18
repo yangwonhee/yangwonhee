@@ -50,9 +50,10 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangwonhee&layout=compact)](https://github.com/yangwonhee/github-readme-stats)
-
-
+<p align="center">
+    <img
+        src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yangwonhee&layout=compact">
+</p>
 
 
 
