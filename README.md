@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=WONHEEZ&fontAlignY=40&desc=developer&descSize=40&descAlignY=60&animation=fadeIn&fontSize=70)
 
-
-
 <h3 align="center">🇰🇷</h3>
 
 <h3 align="center">🛠 Tech 🛠</h3>
@@ -19,11 +17,7 @@
 
 <br>
 
-
-
-  
 <br>
-
 
 <h3 align="center"> ☁ Reach Me ☁ </h3>
 <p align="center">
@@ -39,22 +33,18 @@
 </p>
 <p align="center">
   <img
-    src = "http://mazassumnida.wtf/api/mini/generate_badge?boj=codult">
+    src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=codult">
 </p>
 <br>
-
 
 <p align="center">
     <img
         src = "https://github-readme-stats.vercel.app/api?username=yangwonhee&theme=swift&show_icons=true">
 </p>
 
-
 <p align="center">
     <img
         src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yangwonhee&layout=compact">
 </p>
-
-
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=&fontSize=90)
