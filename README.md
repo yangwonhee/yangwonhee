@@ -31,11 +31,7 @@
 <p align="center">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyangwonhee&count_bg=%2380B1C2&title_bg=%23626262&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 </p>
-<p align="center">
-  <img
-    src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=codult">
-</p>
-<br>
+
 <p align="center">
   <a href="https://github.com/devxb/commitcombo">
     <img src="http://commitcombo.com/get?user=yangwonhee&theme=Rainbow&v=2">
@@ -43,9 +39,17 @@
     </p>
 
 <p align="center">
+  <img
+    src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=codult">
+</p>
+
+<br>
+
+<!-- 
+<p align="center">
     <img
         src = "https://github-readme-stats.vercel.app/api?username=yangwonhee&theme=swift&show_icons=true">
-</p>
+</p> -->
 
 <p align="center">
     <img
